@@ -24,6 +24,6 @@ Employing predictive modeling methodologies to forecast the future paths and mov
 
 ## Demo
 
-https://github.com/Archangel0007/Trajectory-Tracking-System/assets/113388386/7c4e7c72-c4a0-4a14-99c3-b1ad05fd48d1
+https://github.com/Archangel0007/Trajectory-Tracking-System/assets/113388386/5dc8706b-3553-4aea-87bc-1c6184a2370a
 
 You can see in the small demo. The center of every bounding boxes is the current state, the model is trying to predict the center point in the next state.
