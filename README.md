@@ -1,4 +1,4 @@
-# Trajectory-Tracking-System
+# Trajectory-Prediction-System
 
 The primary objective of this project is to develop a comprehensive system for the accurate prediction of vehicle trajectories, with a particular focus on motorcycles, within a road environment. This undertaking encompasses three key components:
 
